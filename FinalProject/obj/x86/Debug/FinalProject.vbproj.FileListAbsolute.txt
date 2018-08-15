@@ -1,0 +1,16 @@
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.LogIn.resources
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.MainForm.resources
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Resources.resources
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.vbproj.GenerateResource.Cache
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.xml
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.CategoryForm.resources
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.DepartmentForm.resources
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.PurchaseOrderForm.resources
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.SupplierForm.resources
+C:\Users\User2\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.CreateAccountForm.resources
+C:\Users\User2\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Product.resources
